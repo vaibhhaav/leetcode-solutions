@@ -1,6 +1,17 @@
 # leetcode-solutions
 This repo contains my personal LeetCode solutions organized by language and problem number. It helps track my coding progress, serves as a reference for algorithms, and showcases problem-solving skills. All code is clean, well-documented, and updated regularly.
 
+### 10-09-2025
+
+| Problem Number | Problem Title                                             | Difficulty | Language | Solution Link                                                                                                                       | Notes                                               |
+|----------------|-----------------------------------------------------------|------------|----------|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| 1733           | [Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/) | Medium     | Java     | [1733_MinimumNumberOfPeopleToTeach.java](https://github.com/vaibhhaav/leetcode-solutions/blob/main/1733_MinimumNumberOfPeopleToTeach.java) | Used sets and greedy approach to minimize teachings.     |
+| 226            | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                       | Easy       | Java     | [226_InvertBinaryTree.java](https://github.com/vaibhhaav/leetcode-solutions/blob/main/226_InvertBinaryTree.java)                                    | Recursive solution swapping left and right children.  |
+| 347            | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                            | Medium     | Java     | [347_TopKFrequentElements.java](https://github.com/vaibhhaav/leetcode-solutions/blob/main/347_TopKFrequentElements.java)                               | Used HashMap and PriorityQueue (min-heap) for frequency.|
+| 125            | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                           | Easy       | Java     | [125_ValidPalindrome.java](https://github.com/vaibhhaav/leetcode-solutions/blob/main/125_ValidPalindrome.java)                                     | Two-pointer approach ignoring non-alphanumeric characters and case.| 
+| 26             | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)      | Easy       | Java     | [26_RemoveDuplicatesFromSortedArray.java](https://github.com/vaibhhaav/leetcode-solutions/blob/main/26_RemoveDuplicatesFromSortedArray.java)               | Two-pointer approach to overwrite duplicates in-place. |
+
+
 ### 09-09-2025
 
 | Problem Number | Problem Title                                             | Difficulty | Language | Solution Link                                                                                                                       | Notes                                               |
