@@ -1,6 +1,14 @@
 # leetcode-solutions
 This repo contains my personal LeetCode solutions organized by language and problem number. It helps track my coding progress, serves as a reference for algorithms, and showcases problem-solving skills. All code is clean, well-documented, and updated regularly.
 
+### 11-09-2025
+
+| Problem Number | Problem Title                               | Difficulty | Language | Solution Link                                                                                 | Notes                                             |
+|----------------|---------------------------------------------|------------|----------|----------------------------------------------------------------------------------------------|---------------------------------------------------|
+| 155            | [Min Stack](https://leetcode.com/problems/min-stack/)                    | Medium     | Java     | [155_MinStack.java](https://github.com/vaibhhaav/leetcode-solutions/blob/main/155_MinStack.java)                | Used two stacks: main stack and min stack to track minimum in O(1) time.           |
+| 2785           | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | Medium     | Java     | [2785_SortVowelsinaString.java](https://github.com/vaibhhaav/leetcode-solutions/blob/main/2785_SortVowelsinaString.java) | Extract vowels, sort them, then reinsert to get vowels in sorted order in string. |
+
+
 ### 10-09-2025
 
 | Problem Number | Problem Title                                             | Difficulty | Language | Solution Link                                                                                                                       | Notes                                               |
